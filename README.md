@@ -7,7 +7,7 @@
 🌟 Technical Skills Snapshot:
 - Expertise in HTML, CSS, JavaScript, TypeScript, React, and more.
 - Proficiency in Redux, GraphQL, Linux, SQL, Node.js, and API development.
-- Skilled in Azure, AWS, Docker, Kubernetes, and more.
+- Skilled in Azure, AWS, GCP, Docker, Kubernetes, and other cloud computing technologies.
 
 🌱 My passion for learning and growth has driven me from Web Developer to Network Admin to Technical Account Manager to Full Stack Instructor and Full Stack Developer. Currently specializing in Cloud & DevOps technologies through the implementation of projects based on real scenarios with focus on technologies and services from AWS, Microsoft Azure, Google Cloud and Oracle Cloud with the objective of supporting companies in their migration and modernization journeys from on-premises to Cloud.
 
